@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <accepting-responses>true</accepting-responses>
+    <allow-response-edit>true</allow-response-edit>
+    <collect-email>true</collect-email>
+	<confirmation-message>Merci d'avoir fini la leçon</confirmation-message>
+	<custom-closed-form-message></custom-closed-form-message>
+    <response-receipts-always>true</response-receipts-always>   
+    <is-quiz>true</is-quiz>
+    <limit-one-response-per-user>false</limit-one-response-per-user>  
+    <progress-bar>true</progress-bar>   
+    <publishing-summary>true</publishing-summary> 
+    <require-login>false</require-login> 
+    <show-link-to-respond-again>true</show-link-to-respond-again> 
+    <shuffle-questions>false</shuffle-questions> 
+
+    <introduction-title>Introduction</introduction-title>
+    <question-title>Question</question-title>
+    <note-title>Note</note-title>
+    <validation-text>Vérifiez que vous avez bien écrit la réponse</validation-text>
+    <info-title>Informations complémentaires</info-title>
+</config>

@@ -1,0 +1,17 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Utility",
+      "libraryId": "1PJ2WyO7FYdAG4pqyQdVZ8zjD-OS7OqGTBgWyJVEvKEFpOt7H0CxoPse-",
+      "version": "5",
+      "developmentMode": true
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
