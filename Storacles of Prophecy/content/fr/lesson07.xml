@@ -318,29 +318,30 @@
     <section-item>
         <title>Question 17</title>
         <description></description>
-        <image-item>
-            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-17.jpg</source>
-            <title>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</title>
-            <question-multiple-choice-item>
-                <option>Oui</option>
-                <option>Pas encore</option>
-                <option>J'observe déjà le Sabbat</option>
-            </question-multiple-choice-item>
-        </section-item>
-        <section-item>
-            <title>Informations complémentaires</title>
-            <image-item>
-                <title>Le calendrier n'a-t-il pas été changé ?</title>
-                <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp.jpg</source>
-            </image-item>
-            <text-item>
-                <description>
-                    <p>Le calendrier a été changé une première fois en octobre 1582, mais cela n'a pas altéré le cycle hebdomadaire. Dix dates du calendrier ont été omises après le 4 octobre 1582 : Ce qui aurait normalement dû être le vendredi 5 octobre, est devenu le vendredi 15 octobre. Le diagramme ci-dessous vous aidera à visualiser le changement. Vous verrez que cela n'a changé en aucune façon, l'ordre des jours de la semaine.</p>
-                </description>
-            </text-item>
-            <image-item>
-                <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp02.jpg</source>
-            </image-item>
-        </section-item>
-    </form-item>
+      <image-item>
+        <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-17.jpg</source>
+        <title>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</title>
+      </image-item>
+      <question-multiple-choice-item>
+          <option>Oui</option>
+          <option>Pas encore</option>
+          <option>J'observe déjà le Sabbat</option>
+      </question-multiple-choice-item>
+  </section-item>
+  <section-item>
+      <title>Informations complémentaires</title>
+      <image-item>
+          <title>Le calendrier n'a-t-il pas été changé ?</title>
+          <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp.jpg</source>
+      </image-item>
+      <text-item>
+          <description>
+              <p>Le calendrier a été changé une première fois en octobre 1582, mais cela n'a pas altéré le cycle hebdomadaire. Dix dates du calendrier ont été omises après le 4 octobre 1582 : Ce qui aurait normalement dû être le vendredi 5 octobre, est devenu le vendredi 15 octobre. Le diagramme ci-dessous vous aidera à visualiser le changement. Vous verrez que cela n'a changé en aucune façon, l'ordre des jours de la semaine.</p>
+          </description>
+      </text-item>
+      <image-item>
+          <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp02.jpg</source>
+      </image-item>
+  </section-item>
+</form-item>
 
