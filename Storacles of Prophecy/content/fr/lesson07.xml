@@ -1,200 +1,346 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lesson>
-	<intro>
-		<title>Étude biblique leçon 7 - Des briques sans paille</title>
-        <verse>Exode 4:29-5:19</verse>
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-00.jpg</image>
-        <text-block>
-			<title>Des briques sans paille</title>
-			<p>Avant que Moïse ne s'approche du roi d'Egypte dans le but d'obtenir la libération des enfants d'Israël, lui et son frère, Aaron s'entretinrent avec les dirrigeants opprimés d'Israël. Lors de cette réunion, ils encouragèrent le peuple à se consacrer au Seigneur et leur dirent que par Sa main puissante, Dieu s'apprêtait à les délivrer de l'esclavage.</p>
-			<p>Pour maintenir la cadence que leur imposaient les Egyptiens, les Israélites avaient travaillé sept jours sur sept. Mais après cette réunion avec Moïse, ils semblaient décidés à se reposer de nouveau chaque septième jour. C'est la raison pour laquelle le pharaon furieux se mit à dire à Moïse et à Aaron : "Voici, ce peuple est maintenant nombreux dans le pays, et vous lui feriez interrompre ses travaux ! " Exode 5:5. (Faisant allusion à l'observation et au repos du sabbat : le mot hébreux désignant "le repos" ici est "Shabath". Cela signifie "les faire garder le sabbat.)</p>
-			<p>Le roi en colère savait qu'il devait trouver un moyen radical pour maintenir cette nation d'esclaves sous son autorité, c'est pourquoi il décida de les submerger de travail afin qu'ils oublient de penser à Dieu et de Le louer. Il dit : " Vous ne donnerez plus comme auparavant de la paille au peuple pour faire des briques ; qu'ils aillent eux-mêmes ramasser de la paille. Vous leur imposerez néanmoins la quantité de briques qu'ils faisaient auparavant, vous n'en retrancherez rien." Exode 5:7,8 Version Louis Segond 1910.*</p>
-			<p>Comme à l'époque de Moïse, Dieu est sur le point de réaliser de grandes choses pour Son peuple. Ses enfants seront bientôt délivrés de l'esclavage du péché et voyagerons vers la Canaan céleste. Cette fois encore, Dieu attire l'attention de Son peuple sur l'importance du jour de repos, appelé le sabbat.</p>
-        </text-block>
-	</intro>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-01.jpg</image>
-		<title>Dieu a-t-Il créé le Sabbat uniquement pour les Israélites ?</title>
-        <verses>
-            <verse answer="homme">Marc 2:27 Puis il leur dit : "Le sabbat a été fait pour l'____, et non l'homme pour le sabbat."</verse>
-        </verses>
-        <note>
-            <p>Quand Jésus dit que le sabbat a été créé pour l'homme, le terme "Homme" désigne toute "l'humanité" -- pour tous les peuples, de tous temps et en tous lieux.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-02.jpg</image>
-		<title>A quel moment Dieu établit-Il le sabbat ?</title>
-        <verses>
+<form-item>
+    <name>07. Des briques sans paille</name>
+    <title>Étude biblique leçon 7 - Des briques sans paille</title>
+    <description>Exode 4:29-5:19</description>
+    <image-item>
+        <title></title>
+        <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-00.jpg</source>
+    </image-item>
+    <text-item>
+        <title>Introduction</title>
+        <description>
+            <p>Avant que Moïse ne s'approche du roi d'Egypte dans le but d'obtenir la libération des enfants d'Israël, lui et son frère, Aaron s'entretinrent avec les dirrigeants opprimés d'Israël. Lors de cette réunion, ils encouragèrent le peuple à se consacrer au Seigneur et leur dirent que par Sa main puissante, Dieu s'apprêtait à les délivrer de l'esclavage.</p>
+            <p>Pour maintenir la cadence que leur imposaient les Egyptiens, les Israélites avaient travaillé sept jours sur sept. Mais après cette réunion avec Moïse, ils semblaient décidés à se reposer de nouveau chaque septième jour. C'est la raison pour laquelle le pharaon furieux se mit à dire à Moïse et à Aaron : "Voici, ce peuple est maintenant nombreux dans le pays, et vous lui feriez interrompre ses travaux ! " Exode 5:5. (Faisant allusion à l'observation et au repos du sabbat : le mot hébreux désignant "le repos" ici est "Shabath". Cela signifie "les faire garder le sabbat.)</p>
+            <p>Le roi en colère savait qu'il devait trouver un moyen radical pour maintenir cette nation d'esclaves sous son autorité, c'est pourquoi il décida de les submerger de travail afin qu'ils oublient de penser à Dieu et de Le louer. Il dit : " Vous ne donnerez plus comme auparavant de la paille au peuple pour faire des briques ; qu'ils aillent eux-mêmes ramasser de la paille. Vous leur imposerez néanmoins la quantité de briques qu'ils faisaient auparavant, vous n'en retrancherez rien." Exode 5:7,8 Version Louis Segond 1910.*</p>
+            <p>Comme à l'époque de Moïse, Dieu est sur le point de réaliser de grandes choses pour Son peuple. Ses enfants seront bientôt délivrés de l'esclavage du péché et voyagerons vers la Canaan céleste. Cette fois encore, Dieu attire l'attention de Son peuple sur l'importance du jour de repos, appelé le sabbat.</p>
+        </description>
+    </text-item>
+    <section-item>
+        <title>Question 1</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-01.jpg</source>
+            <title>Dieu a-t-Il créé le Sabbat uniquement pour les Israélites ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="homme">Marc 2:27 Puis il leur dit : "Le sabbat a été fait pour l'____, et non l'homme pour le sabbat."</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Quand Jésus dit que le sabbat a été créé pour l'homme, le terme "Homme" désigne toute "l'humanité" -- pour tous les peuples, de tous temps et en tous lieux.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 2</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-02.jpg</source>
+            <title>A quel moment Dieu établit-Il le sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
             <verse answer="achevés">Genèse 2:1,3 Ainsi furent ____ les cieux et la terre, et toute leur armée. Dieu bénit le septième jour, et il le sanctifia, parce qu'en ce jour il se reposa de toute son oeuvre qu'il avait créée en la faisant.</verse>
-        </verses>
-        <note>
-            <p>Le sabbat a été établi à la fin de la semaine de la Création.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-03.jpg</image>
-		<title>A quel jour de la semaine le Sabbat correspond-t-il ?</title>
-        <verses>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Le sabbat a été établi à la fin de la semaine de la Création.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 3</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-03.jpg</source>
+            <title>A quel jour de la semaine le Sabbat correspond-t-il ?</title>
+        </image-item>
+        <question-short-answer-item>
             <verse answer="septième jour">Genèse 2:2, 3 Dieu acheva au ____ ____ son oeuvre, qu'il avait faite : et il se reposa au ____ ____ de toute son oeuvre, qu'il avait faite. Dieu bénit le ____ ____ , et il le sanctifia. (réponse en deux mots)</verse>
-        </verses>
-        <note>
-            <p>Trois fois dans le second chapitre de la Genèse, Dieu nous dit qu'Il a fait le Sabbat le septième jour de la semaine de la Création. Il l'a également "sanctifié", ce qui signifie "mettre à part pour un usage saint". Dieu a créé un sabbat en 24 heures, parceque le temps est nécessaire à l'épanouissement d'une véritable relation d'amour avec Jésus. Le diable, à l'instar du pharaon d'Egypte, souhaite nous maintenir occupés au point que nous en venions à oublier Dieu. Sachant combien les gens vivant à la fin des temps seraient affairés, Dieu a mit 24 heures à part chaque semaine, pour les passer avec Son peuple, afin qu'Ils fassent connaissance avec Lui. Il a pris ce rendez-vous hedbomadaire avec vous. De ratez pas cette occasion de Le rencontrer !</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-04.jpg</image>
-		<title>Comment Dieu a-t-Il démontré l'importance de Son Saint Sabbat ?</title>
-        <verses>
-            <verse answer="béni">Exode 20:8-11 Souviens-toi du jour du repos, pour le sanctifier. ... L'Éternel a ____ le jour du repos et l'a sanctifié.</verse>
-        </verses>
-        <note>
-            <p>Exode 20:8-11 est le quatrième commandement de la loi de Dieu. En faisant du Sabbat un de Ses Dix Commandements, Il a démontré son importance capitale. Le verset 10 l'appelle "le jour du repos de l'Éternel, ton Dieu". Seul le quatrième commandement commence par "Souviens-toi", indiquant par là que Dieu savait que les gens l'oublieraient. Enfreindre les commandements de Dieu est un péché (1 Jean 3:4). Mais Jésus est mort pour sauver Son peuple de leurs péchés, ou de leurs trangressions de la loi (Matthieu 1:21)</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-05.jpg</image>
-		<title>De quels deux éléments précieux le Sabbat est-il un signe selon Dieu ?</title>
-        <verses>
-            <verse answer="sanctifie">Ezéchiel 20:12 Je leur donnai aussi mes sabbats comme un signe entre moi et eux, pour qu'ils connussent que je suis l'Éternel qui les ____.</verse>
-        </verses>
-        <note>
-            <p>Dieu dit que le Sabbat est un signe, ou une marque de Sa puissance en tant que Créateur et Rédempteur. Dans Apocalypse 14:6-14, Dieu délivre trois messages importants qui seront proclamés " aux habitants de la terre, à toute nation, à toute tribu, à toute langue, et à tout peuple." (Verset 6). Le premier message se trouve au verset 7 : "Craignez Dieu, et donnez-lui gloire, car l'heure de son jugement est venue ; et adorez celui qui a fait le ciel, et la terre, et la mer, et les sources d'eaux." Cet appel à un retour au véritable culte est directement issu du quatrième commandement : "Car en six jours l'Éternel a fait les cieux, la terre et la mer, et tout ce qui y est contenu, et il s'est reposé le septième jour." Exode 20:11</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-06.jpg</image>
-		<title>Quel jour Saint Jésus respecta-t-Il ?</title>
-        <verses>
-            <verse answer="coutume">Luc 4:16 Il se rendit à Nazareth, où il avait été élevé, et, selon sa ____, il entra dans la synagogue le jour du Sabbat. Il se leva pour faire la lecture.</verse>
-        </verses>
-        <note>
-            <p>Jésus est notre exemple en toutes choses (1 Pierre 2:21), cela est valable pour l'observation du Sabbat, qui était Sa coutume. Une "coutume" est une habitude régulière. Les Chrétiens doivent marcher comme Il a marché Lui-même (1 Jean 2:6).</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-07.jpg</image>
-		<title>Quelle était la coutume de Paul, à propos du Sabbat ?</title>
-        <verses>
-            <verse answer="chaque sabbat">Actes 18:4 Paul discourait dans la synagogue ____ ____, et il persuadait des Juifs et des Grecs.</verse>
-            <verse>Actes 17:2 Paul y entra, selon sa coutume. Pendant trois sabbats, il discuta avec eux, d'après les Écritures. (réponse en deux mots)</verse>
-        </verses>
-        <note>
-            <p>C'était aussi la coutume de Paul d'observer le septième jour, le Sabbat.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-08.jpg</image>
-		<title>Les apôtres et les Gentils se réunissaient-ils le jour du sabbat ?</title>
-        <verses>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Trois fois dans le second chapitre de la Genèse, Dieu nous dit qu'Il a fait le Sabbat le septième jour de la semaine de la Création. Il l'a également "sanctifié", ce qui signifie "mettre à part pour un usage saint". Dieu a créé un sabbat en 24 heures, parceque le temps est nécessaire à l'épanouissement d'une véritable relation d'amour avec Jésus. Le diable, à l'instar du pharaon d'Egypte, souhaite nous maintenir occupés au point que nous en venions à oublier Dieu. Sachant combien les gens vivant à la fin des temps seraient affairés, Dieu a mit 24 heures à part chaque semaine, pour les passer avec Son peuple, afin qu'Ils fassent connaissance avec Lui. Il a pris ce rendez-vous hedbomadaire avec vous. De ratez pas cette occasion de Le rencontrer !</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 4</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-04.jpg</source>
+            <title>Comment Dieu a-t-Il démontré l'importance de Son Saint Sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="béni">Exode 20:8-11 Souviens-toi du jour du repos, pour le sanctifier. ... L'Éternel a ____ le jour du repos et l'a sanctifié.</question>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Exode 20:8-11 est le quatrième commandement de la loi de Dieu. En faisant du Sabbat un de Ses Dix Commandements, Il a démontré son importance capitale. Le verset 10 l'appelle "le jour du repos de l'Éternel, ton Dieu". Seul le quatrième commandement commence par "Souviens-toi", indiquant par là que Dieu savait que les gens l'oublieraient. Enfreindre les commandements de Dieu est un péché (1 Jean 3:4). Mais Jésus est mort pour sauver Son peuple de leurs péchés, ou de leurs trangressions de la loi (Matthieu 1:21)</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 5</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-05.jpg</source>
+            <title>De quels deux éléments précieux le Sabbat est-il un signe selon Dieu ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="sanctifie">Ezéchiel 20:12 Je leur donnai aussi mes sabbats comme un signe entre moi et eux, pour qu'ils connussent que je suis l'Éternel qui les ____.</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Dieu dit que le Sabbat est un signe, ou une marque de Sa puissance en tant que Créateur et Rédempteur. Dans Apocalypse 14:6-14, Dieu délivre trois messages importants qui seront proclamés " aux habitants de la terre, à toute nation, à toute tribu, à toute langue, et à tout peuple." (Verset 6). Le premier message se trouve au verset 7 : "Craignez Dieu, et donnez-lui gloire, car l'heure de son jugement est venue ; et adorez celui qui a fait le ciel, et la terre, et la mer, et les sources d'eaux." Cet appel à un retour au véritable culte est directement issu du quatrième commandement : "Car en six jours l'Éternel a fait les cieux, la terre et la mer, et tout ce qui y est contenu, et il s'est reposé le septième jour." Exode 20:11</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 6</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-06.jpg</source>
+            <title>Quel jour Saint Jésus respecta-t-Il ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="coutume">Luc 4:16 Il se rendit à Nazareth, où il avait été élevé, et, selon sa ____, il entra dans la synagogue le jour du Sabbat. Il se leva pour faire la lecture.</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Jésus est notre exemple en toutes choses (1 Pierre 2:21), cela est valable pour l'observation du Sabbat, qui était Sa coutume. Une "coutume" est une habitude régulière. Les Chrétiens doivent marcher comme Il a marché Lui-même (1 Jean 2:6).</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 7</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-07.jpg</source>
+            <title>Quelle était la coutume de Paul, à propos du Sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="chaque sabbat">Actes 18:4 Paul discourait dans la synagogue ____ ____, et il persuadait des Juifs et des Grecs.</question>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Actes 17:2 Paul y entra, selon sa coutume. Pendant trois sabbats, il discuta avec eux, d'après les Écritures. (réponse en deux mots)
+                </p>
+            </description>
+        </text-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>C'était aussi la coutume de Paul d'observer le septième jour, le Sabbat.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 8</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-08.jpg</source>
+            <title>Les apôtres et les Gentils se réunissaient-ils le jour du sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
             <verse answer="sabbat">Actes 13:42 Lorsqu'ils sortirent (les Juifs), on les pria (les Gentils) de parler le ____ suivant sur les mêmes choses.</verse>
-        </verses>
-        <note>
-            <p>En cette autre occasion, les disciples se sont joints à un groupe de femmes (Gentils) le jour du sabbat, parce qu'il n'y avait pas de synagogue dans la ville (Actes 16:13).</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-09.jpg</image>
-		<title>Est-ce que Jésus s'attend à ce que Ses enfants continuent à observer le Sabbat après qu'Il soit mort pour eux ?</title>
-        <verses>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>En cette autre occasion, les disciples se sont joints à un groupe de femmes (Gentils) le jour du sabbat, parce qu'il n'y avait pas de synagogue dans la ville (Actes 16:13).</p>
+
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 9</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-09.jpg</source>
+            <title>Est-ce que Jésus s'attend à ce que Ses enfants continuent à observer le Sabbat après qu'Il soit mort pour eux ?</title>
+        </image-item>
+        <question-short-answer-item>
             <verse answer="sabbat">Matthieu 24:20 Priez pour que votre fuite n'arrive pas en hiver, ni un jour de ____.</verse>
-        </verses>
-        <note>
-            <p>Jésus était ici, prédisant la chute de Jérusalem qui se produirait en 70 après J.C. (environ 40 ans plus tard). Mais Il suggéra qu'ils prient afin qu'ils n'aient pas à prendre la fuite un jour de sabbat, devant l'invasion de l'armée. il est clair que Jésus S'attendait à ce que Ses enfants gardent le Saint Sabbat longtemps après Sa mort.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-10.jpg</image>
-		<title>Est-ce que la Bible enseigne qu'à la fin des temps, les enfants de Dieu garderont également le saint Sabbat du septième jour ?</title>
-        <verses>
-          <verse answer="commandements">Apocalypse 12:17 Et le dragon [diable] fut irrité contre la femme [église], et il s'en alla faire la guerre au restes de sa postérité [enfants], à ceux qui gardent les ____ de Dieu et qui ont le témoignage de Jésus.</verse>
-            <verse>Apocalypse 14:12 C'est ici la persévérance des saints, qui gardent les commandements de Dieu et la foi de Jésus.</verse>
-            <verse>Apocalypse 22:14 Heureux ceux qui lavent leurs robes, afin d'avoir droit à l'arbre de vie, et d'entrer par les portes dans la ville !</verse>
-        </verses>
-        <note>
-            <p>Les Ecritures mentionnées ci-dessus se réfèrent évidemment à l'église des derniers temps, et chaque passage mentionne clairement que l'église de Dieu des derniers temps gardera Ses commandements, ce qui englobe bien sûr le quatrième : le Sabbat.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-11.jpg</image>
-		<title>Est-ce qu'au ciel, tous ceux qui seront sauvés garderont le Sabbat ?</title>
-        <verses>
-            <verse answer="toute">Esaïe 66:22, 23 Car, comme les nouveaux cieux et la nouvelle terre que je vais créer subsisteront devant moi, dit l'Éternel, ainsi subsisteront votre postérité et votre nom. A chaque nouvelle lune et à chaque sabbat, ____ chair viendra se prosterner devant moi, dit l'Éternel.</verse>
-        </verses>
-        <note>
-            <p>La Bible déclare que les rachetés de tous les temps se rassembleront au ciel et sur la terre, pour garder le Sabbat de Dieu.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-12.jpg</image>
-		<title>Peut-on être certain que le septième jour de la semaine actuelle (Samedi) corresponde effectivement au jour du Sabbat que Jésus observait ?</title>
-        <verses>
-            <verse answer="reposèrent">Luc 23:54 - 24:1 C'était le jour de la préparation[Vendredi], et le sabbat allait commencer... Et, s'en étant retournées, elles préparèrent des aromates et des parfums. Puis elles se ____ le jour du sabbat, selon la loi. Le premier jour de la semaine, elles se rendirent au sépulcre.</verse>
-        </verses>
-        <note>
-            <p>Jésus a été crucifié le Vendredi (jour de la préparation), le jour précédent le Sabbat (Marc 15:42). Jésus s'est reposé dans la tombe le jour du Sabbat selon la loi (Luc 23:56), puis Il ressuscita le premier jour de la semaine, le jour qui vient juste après le Sabbat (Marc 16:1-6). Partout dans le monde, les Chrétiens célèbrent encore ce jour qu'ils appellent le dimanche de Pâques. La Bible démontre clairement que le Sabbat était le jour qui suit vendredi et qui précède dimanche. Ce jour de la semaine est très facile à localiser sur n'importe quel calendrier. (Voir dans le supplément d'étude, "Le calendrier n'a-t-il pas été changé ?")</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-13.jpg</image>
-		<title>Est-ce que Dieu permet à quelqu'un, quel qu'il soit, de changer Son Saint jour ?</title>
-        <verses>
-            <verse answer="ajoute">Proverbes 30:5, 6 Toute parole de Dieu est éprouvée. Il est un bouclier pour ceux qui cherchent en lui un refuge. N'____ rien à ses paroles, De peur qu'il ne te reprenne et que tu ne sois trouvé menteur.</verse>
-        </verses>
-        <note>
-            <p>Juste avant que Jésus ne donne les Dix Commandements, tels qu'ils sont décrits dans le chapitre 5 de Deutéronome, il avertit solennellement que nul ne devrait rien "ajouter" ou rien "retrancher" de ses commandements (Deutéronome 4:2). Mais ils devraient, au contraire, être précisément observés de la façon qu'il les prescrits. Dieu bénit son sabbat (Exode 20:11), et quand Il bénit quelque chose, cette chose est bénie pour toujours (1 Chroniques 17:27). Dieu dit :" Je ne changerai pas ce qui est sorti de mes lèvres." (Psaumes 89:35). Des hommes tombés dans l'erreur ont admit avoir transféré le saint sabbat de Dieu au dimanche. Mais Dieu, qui nous donne la Bible pour boussole, refusera d'accepter des enseignements d'origine humaine.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-14.jpg</image>
-		<title>Quand commence et se termine le sabbat ?</title>
-        <verses>
-            <verse answer="soir">Lévitique 23:32 Dès le soir du neuvième jour jusqu'au ____ suivant, vous célébrerez votre sabbat.</verse>
-            <verse>Marc 1:32 Le soir, après le coucher du soleil.</verse>
-        </verses>
-        <note>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Jésus était ici, prédisant la chute de Jérusalem qui se produirait en 70 après J.C. (environ 40 ans plus tard). Mais Il suggéra qu'ils prient afin qu'ils n'aient pas à prendre la fuite un jour de sabbat, devant l'invasion de l'armée. il est clair que Jésus S'attendait à ce que Ses enfants gardent le Saint Sabbat longtemps après Sa mort.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 10</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-10.jpg</source>
+            <title>Est-ce que la Bible enseigne qu'à la fin des temps, les enfants de Dieu garderont également le saint Sabbat du septième jour ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <verse answer="commandements">Apocalypse 12:17 Et le dragon [diable] fut irrité contre la femme [église], et il s'en alla faire la guerre au restes de sa postérité [enfants], à ceux qui gardent les ____ de Dieu et qui ont le témoignage de Jésus.</verse>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Apocalypse 14:12 C'est ici la persévérance des saints, qui gardent les commandements de Dieu et la foi de Jésus.</p>
+                <p>Apocalypse 22:14 Heureux ceux qui lavent leurs robes, afin d'avoir droit à l'arbre de vie, et d'entrer par les portes dans la ville !</p>
+            </description>
+        </text-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Les Ecritures mentionnées ci-dessus se réfèrent évidemment à l'église des derniers temps, et chaque passage mentionne clairement que l'église de Dieu des derniers temps gardera Ses commandements, ce qui englobe bien sûr le quatrième : le Sabbat.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 11</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-11.jpg</source>
+            <title>Est-ce qu'au ciel, tous ceux qui seront sauvés garderont le Sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="toute">Esaïe 66:22, 23 Car, comme les nouveaux cieux et la nouvelle terre que je vais créer subsisteront devant moi, dit l'Éternel, ainsi subsisteront votre postérité et votre nom. A chaque nouvelle lune et à chaque sabbat, ____ chair viendra se prosterner devant moi, dit l'Éternel.</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>La Bible déclare que les rachetés de tous les temps se rassembleront au ciel et sur la terre, pour garder le Sabbat de Dieu.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 12</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-12.jpg</source>
+            <title>Peut-on être certain que le septième jour de la semaine actuelle (Samedi) corresponde effectivement au jour du Sabbat que Jésus observait ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="reposèrent">Luc 23:54 - 24:1 C'était le jour de la préparation[Vendredi], et le sabbat allait commencer... Et, s'en étant retournées, elles préparèrent des aromates et des parfums. Puis elles se ____ le jour du sabbat, selon la loi. Le premier jour de la semaine, elles se rendirent au sépulcre.</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Jésus a été crucifié le Vendredi (jour de la préparation), le jour précédent le Sabbat (Marc 15:42). Jésus s'est reposé dans la tombe le jour du Sabbat selon la loi (Luc 23:56), puis Il ressuscita le premier jour de la semaine, le jour qui vient juste après le Sabbat (Marc 16:1-6). Partout dans le monde, les Chrétiens célèbrent encore ce jour qu'ils appellent le dimanche de Pâques. La Bible démontre clairement que le Sabbat était le jour qui suit vendredi et qui précède dimanche. Ce jour de la semaine est très facile à localiser sur n'importe quel calendrier. (Voir dans le supplément d'étude, "Le calendrier n'a-t-il pas été changé ?")</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 13</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-13.jpg</source>
+            <title>Est-ce que Dieu permet à quelqu'un, quel qu'il soit, de changer Son Saint jour ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="ajoute">Proverbes 30:5, 6 Toute parole de Dieu est éprouvée. Il est un bouclier pour ceux qui cherchent en lui un refuge. N'____ rien à ses paroles, De peur qu'il ne te reprenne et que tu ne sois trouvé menteur.</question>
+        </question-short-answer-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Juste avant que Jésus ne donne les Dix Commandements, tels qu'ils sont décrits dans le chapitre 5 de Deutéronome, il avertit solennellement que nul ne devrait rien "ajouter" ou rien "retrancher" de ses commandements (Deutéronome 4:2). Mais ils devraient, au contraire, être précisément observés de la façon qu'il les prescrits. Dieu bénit son sabbat (Exode 20:11), et quand Il bénit quelque chose, cette chose est bénie pour toujours (1 Chroniques 17:27). Dieu dit :" Je ne changerai pas ce qui est sorti de mes lèvres." (Psaumes 89:35). Des hommes tombés dans l'erreur ont admit avoir transféré le saint sabbat de Dieu au dimanche. Mais Dieu, qui nous donne la Bible pour boussole, refusera d'accepter des enseignements d'origine humaine.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 14</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-14.jpg</source>
+            <title>Quand commence et se termine le sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="soir">Lévitique 23:32 Dès le soir du neuvième jour jusqu'au ____ suivant, vous célébrerez votre sabbat.</question>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Marc 1:32 Le soir, après le coucher du soleil.</p>
+            </description>
+        </text-item>
+        <text-item>
+            <title>Note</title>
             <p>Les heures du sabbat commencent au coucher du soleil du vendredi et se terminent au coucher du soleil du samedi.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-15.jpg</image>
-		<title>D'après l'Apocalypse 1:10, quel jour est celui de l'Eternel ?</title>
-        <verses>
-            <verse answer="Éternel">Exode 20:10 Mais le septième jour est le jour du repos de l'____, ton Dieu.</verse>
-            <verse>Esaïe 58:13 Si tu retiens ton pied pendant le sabbat, Pour ne pas faire ta volonté en mon saint jour.</verse>
-            <verse>Marc 2:28 De sorte que le Fils de l'homme est maître même du sabbat.</verse>
-        </verses>
-        <note>
-            <p>Dans l'Ancien et le nouveau Testament, Dieu nomme le jour du sabbat : le jour de l'Eternel. Il insiste en avertissant les hommes afin qu'ils ne pêchent pas en foulant le sabbat de Dieu aux pieds (Esaïe 56:2-7). La Bible ne fait jamais allusion au dimanche comme étant le jour de l'Eternel. Ce dernier est tout simplement l'un des six jours de travail de la semaine (Ezéchiel 46.1), rien d'autre.</p>
-        </note>
-    </question>
-    <question type="short">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-16.jpg</image>
-		<title>Quelle bénédiction est étroitement liée à l'observation du commandement du Sabbat ?</title>
-        <verses>
-            <verse answer="Éternel">Matthieu 11:28 Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du ____.</verse>
-            <verse>Exode 33:14 Je marcherai moi-même avec toi, et je te donnerai du repos.</verse>
-            <verse>Hébreux 4:5 Ils n'entreront pas dans mon repos ...</verse>
-        </verses>
-        <note>
-            <p>Chacun des Dix Commandements a une signification spirituelle. Certains chrétiens légalistes se focalisent sur les lettres de la loi et négligent l'esprit de la loi. Pour notre équilibre, Jésus souhaite que nous ayons les deux aspects de la loi (Matthieu 5:21, 22, 27, 28). La Bible emploie souvent le terme "repos" lorsqu'elle se réfère au salut. Il est dit dans Hébreux 4:1, 4, 9, 10 que ceux qui ont vraiment été amenés au "repos" de la conversion, et qui restent fidèles à Christ, garderont le sabbat du septième jour comme un symbole du repos Chrétien.</p>
-        </note>
-    </question>
-    <question type="multichoice">
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-17.jpg</image>
-        <title>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</title>
-        <options>
-            <option>Oui</option>
-            <option>Pas encore</option>
-            <option>J'observe déjà le Sabbat</option>
-        </options>
-    </question>
-    <info>
-        <title>Le calendrier n'a-t-il pas été changé ?</title>        
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp.jpg</image>
-        <p>Le calendrier a été changé une première fois en octobre 1582, mais cela n'a pas altéré le cycle hebdomadaire. Dix dates du calendrier ont été omises après le 4 octobre 1582 : Ce qui aurait normalement dû être le vendredi 5 octobre, est devenu le vendredi 15 octobre. Le diagramme ci-dessous vous aidera à visualiser le changement. Vous verrez que cela n'a changé en aucune façon, l'ordre des jours de la semaine.</p>
-        
-		<image>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp02.jpg</image>
-    </info>
-</lesson>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 15</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-15.jpg</source>
+            <title>D'après l'Apocalypse 1:10, quel jour est celui de l'Eternel ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="Éternel">Exode 20:10 Mais le septième jour est le jour du repos de l'____, ton Dieu.</question>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Esaïe 58:13 Si tu retiens ton pied pendant le sabbat, Pour ne pas faire ta volonté en mon saint jour.</p>
+                <p>Marc 2:28 De sorte que le Fils de l'homme est maître même du sabbat.</p>
+            </description>
+        </text-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Dans l'Ancien et le nouveau Testament, Dieu nomme le jour du sabbat : le jour de l'Eternel. Il insiste en avertissant les hommes afin qu'ils ne pêchent pas en foulant le sabbat de Dieu aux pieds (Esaïe 56:2-7). La Bible ne fait jamais allusion au dimanche comme étant le jour de l'Eternel. Ce dernier est tout simplement l'un des six jours de travail de la semaine (Ezéchiel 46.1), rien d'autre.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 16</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-16.jpg</source>
+            <title>Quelle bénédiction est étroitement liée à l'observation du commandement du Sabbat ?</title>
+        </image-item>
+        <question-short-answer-item>
+            <question answer="Éternel">Matthieu 11:28 Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du ____.</question>
+        </question-short-answer-item>
+        <text-item>
+            <description>
+                <p>Exode 33:14 Je marcherai moi-même avec toi, et je te donnerai du repos.</p>
+                <p>Hébreux 4:5 Ils n'entreront pas dans mon repos ...</p>
+            </description>
+        </text-item>
+        <text-item>
+            <title>Note</title>
+            <description>
+                <p>Chacun des Dix Commandements a une signification spirituelle. Certains chrétiens légalistes se focalisent sur les lettres de la loi et négligent l'esprit de la loi. Pour notre équilibre, Jésus souhaite que nous ayons les deux aspects de la loi (Matthieu 5:21, 22, 27, 28). La Bible emploie souvent le terme "repos" lorsqu'elle se réfère au salut. Il est dit dans Hébreux 4:1, 4, 9, 10 que ceux qui ont vraiment été amenés au "repos" de la conversion, et qui restent fidèles à Christ, garderont le sabbat du septième jour comme un symbole du repos Chrétien.</p>
+            </description>
+        </text-item>
+    </section-item>
+    <section-item>
+        <title>Question 17</title>
+        <description></description>
+        <image-item>
+            <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-17.jpg</source>
+            <title>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</title>
+            <question-multiple-choice-item>
+                <option>Oui</option>
+                <option>Pas encore</option>
+                <option>J'observe déjà le Sabbat</option>
+            </question-multiple-choice-item>
+        </section-item>
+        <section-item>
+            <title>Informations complémentaires</title>
+            <image-item>
+                <title>Le calendrier n'a-t-il pas été changé ?</title>
+                <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp.jpg</source>
+            </image-item>
+            <text-item>
+                <description>
+                    <p>Le calendrier a été changé une première fois en octobre 1582, mais cela n'a pas altéré le cycle hebdomadaire. Dix dates du calendrier ont été omises après le 4 octobre 1582 : Ce qui aurait normalement dû être le vendredi 5 octobre, est devenu le vendredi 15 octobre. Le diagramme ci-dessous vous aidera à visualiser le changement. Vous verrez que cela n'a changé en aucune façon, l'ordre des jours de la semaine.</p>
+                </description>
+            </text-item>
+            <image-item>
+                <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/Lesson07-sp02.jpg</source>
+            </image-item>
+        </section-item>
+    </form-item>
 

@@ -13,10 +13,5 @@
     <require-login>false</require-login> 
     <show-link-to-respond-again>true</show-link-to-respond-again> 
     <shuffle-questions>false</shuffle-questions> 
-
-    <introduction-title>Introduction</introduction-title>
-    <question-title>Question</question-title>
-    <note-title>Note</note-title>
-    <validation-text>Vérifiez que vous avez bien écrit la réponse</validation-text>
-    <info-title>Informations complémentaires</info-title>
+    <custom-error-text-question-short-answer>Vérifiez que vous avez bien écrit la réponse</custom-error-text-question-short-answer>
 </config>
