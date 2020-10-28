@@ -1,78 +1,114 @@
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(4): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(25): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(4): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(25): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(9): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(9): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(12): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(30): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(12): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(34): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(15): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(34): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(15): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(47): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(18): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(47): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(18): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(48): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(21): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(48): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(21): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(53): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(24): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(53): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(24): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(56): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(56): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(59): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(30): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(59): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(32): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(62): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(33): error C1999: Bad argument.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(62): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020  At /Code.gs
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(4): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(65): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(4): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(65): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(9): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(68): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(9): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(68): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(12): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(72): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(12): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(72): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(15): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(74): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(15): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(76): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(18): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(77): error C1999: Bad argument.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(18): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020  At /Code.gs
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(25): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(21): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(25): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(21): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(24): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(24): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(30): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(34): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(28): error C1999: Illegal statement.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(34): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(30): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(47): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(32): error C1999: syntax error.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(47): error C1999: Illegal statement.
 [2;37;0m
-Tue Oct 27 14:28:09 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(33): error C1999: Bad argument.
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(48): error C1999: syntax error.
 [2;37;0m
-Tue Oct 27 14:28:09 2020  At /Code.gs
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(48): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(53): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(53): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(56): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(56): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(59): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(59): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(62): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(62): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(65): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(65): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(68): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(68): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(72): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(72): error C1999: Illegal statement.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(74): error C1999: Do not support code block, it's conflict with map creating, please try 'do { block }'; 
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(76): error C1999: syntax error.
+[2;37;0m
+Tue Oct 27 20:58:54 2020 [1;31mc:/Dev/religious/bible-study-google-form-generator-app/Code.gs(77): error C1999: Bad argument.
+[2;37;0m
+Tue Oct 27 20:58:54 2020  At /Code.gs

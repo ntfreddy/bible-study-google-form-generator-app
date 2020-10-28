@@ -2,43 +2,44 @@ function run() {
     var spreadSheet = SpreadsheetApp.getActiveSpreadsheet();
     var mainSheetName = "_main";
 
-    //var mainColumnFormName = "Form Name";
     var mainColumnFormContentFile = "Form Content File";
     var mainColumnFormConfigFile = "Form Config File";
+    var mainColumnActive = "Active";
 
     var mainTable = Utility.convertSheet2JsonText(spreadSheet, mainSheetName);
 
     for (var formIndex = 0; formIndex < mainTable.length; formIndex++) {
-        //var formName = mainTable[formIndex][mainColumnFormName];
         var formContentFile = mainTable[formIndex][mainColumnFormContentFile];
         var formConfigFile = mainTable[formIndex][mainColumnFormConfigFile];
+        var active = mainTable[formIndex][mainColumnActive] === 1;
 
-        var xmlContentFile = UrlFetchApp.fetch(formContentFile).getContentText();
-        var documentContentFile = XmlService.parse(xmlContentFile);
-        var formNode = documentContentFile.getRootElement();
+        if (active) {
+            var xmlContentFile = UrlFetchApp.fetch(formContentFile).getContentText();
+            var documentContentFile = XmlService.parse(xmlContentFile);
+            var formNode = documentContentFile.getRootElement();
 
-        var xmlConfigFile = UrlFetchApp.fetch(formConfigFile).getContentText();
-        var documentConfigFile = XmlService.parse(xmlConfigFile);
-        var configNode = documentConfigFile.getRootElement();
+            var xmlConfigFile = UrlFetchApp.fetch(formConfigFile).getContentText();
+            var documentConfigFile = XmlService.parse(xmlConfigFile);
+            var configNode = documentConfigFile.getRootElement();
 
-        var itemsStack = [];
-        var factory = new Factory();
+            var itemsQueue = [];
+            var factory = new Factory();
 
-        var item = factory.createItem(formNode, configNode, itemsStack);
-        if (item !== null) {
-            itemsStack.push(item);
-        }
+            factory.createItem(formNode, configNode, itemsQueue);
 
-        if (itemsStack.length > 0) {
-            var formItem = itemsStack.pop();
-            var formName = formItem.name !== undefined ? formItem.name : "";
+            if (itemsQueue.length > 0) {
+                var formItem = itemsQueue.shift();
+                var formName = formItem.name !== undefined ? formItem.name : "";
 
-            var form = FormApp.create(formName);
-            formItem.create(form);
+                var form = FormApp.create(formName);
+                formItem.create(form);
 
-            while (itemsStack.length > 0) {
-                var stackItem = itemsStack.pop();
-                stackItem.create(form);
+                while (itemsQueue.length > 0) {
+                    var item = itemsQueue.shift();
+                    if (item !== null) {
+                        item.create(form);
+                    }
+                }
             }
         }
     }
@@ -69,19 +70,17 @@ class Factory {
                 break;
             default:
                 {
-                    return item;
+                    return;
                 }
         }
 
+
+        itemsQueue.push(item);
+
+        let that = this;
         node.getChildren().forEach(function(childNode) {
-            var childItem = that.createItem(childNode, configNode, itemsQueue);
-            if (childItem !== null) {
-                itemsQueue.push(childItem);
-            }
+            that.createItem(childNode, configNode, itemsQueue);
         });
-
-
-        return item;
     }
 }
 
@@ -162,7 +161,7 @@ class SectionItem {
         this.description = childNode !== null ? childNode.getText() : "";
     }
     create(form) {
-        form.addPageBreakItem().setTitle(this.title).setDescription(this.description); //add section-item
+        form.addPageBreakItem().setTitle(this.title).setHelpText(this.description); //add section-item
     }
 }
 
@@ -173,7 +172,7 @@ class ImageItem {
 
         childNode = node.getChild('source');
         this.source = childNode !== null ? childNode.getText() : "";
-        this.image = this.source !== "" ? UrlFetchApp.fetch(source) : null;
+        this.image = this.source !== "" ? UrlFetchApp.fetch(this.source) : null;
     }
 
     create(form) {
@@ -199,7 +198,7 @@ class TextItem {
     }
 
     create(form) {
-        form.addSectionHeaderItem().setTitle(this.title).setDescription(this.description.join('\n\n')); //add title and description
+        form.addSectionHeaderItem().setTitle(this.title).setHelpText(this.description.join('\n\n')); //add title and description
     }
 }
 
