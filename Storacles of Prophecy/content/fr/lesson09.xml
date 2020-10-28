@@ -317,8 +317,11 @@
             <title></title>
         </image-item>
         <question-multiple-choice-item>
-            <option>Oui</option>
-            <option>Pas encore</option>
+            <question>Voulez-vous accepter l'offre que Jésus vous fait, de vous donner le pouvoir de transformer votre vie en une vie nouvelle ?</question>
+            <options>
+                <option>Oui</option>
+                <option>Pas encore</option>
+            </options>
         </question-multiple-choice-item>
     </section-item>
     <section-item>

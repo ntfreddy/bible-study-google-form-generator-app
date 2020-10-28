@@ -320,12 +320,15 @@
         <description></description>
       <image-item>
         <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson07/lesson07-17.jpg</source>
-        <title>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</title>
+        <title></title>
       </image-item>
       <question-multiple-choice-item>
-          <option>Oui</option>
-          <option>Pas encore</option>
-          <option>J'observe déjà le Sabbat</option>
+            <question>Considérant le fait que Dieu a donné le Sabbat comme signe de Son pouvoir de créer et de sanctifier, aimeriez-vous commencer à recevoir les bénédictions de ce saint jour en l'observant en Son honneur ?</question>
+            <options>
+                <option>Oui</option>
+                <option>Pas encore</option>
+                <option>J'observe déjà le Sabbat</option>
+            </options>
       </question-multiple-choice-item>
   </section-item>
   <section-item>

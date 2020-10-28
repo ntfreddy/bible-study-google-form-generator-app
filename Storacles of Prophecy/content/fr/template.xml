@@ -349,9 +349,12 @@
             <title></title>
         </image-item>
         <question-multiple-choice-item>
-            <option>Oui</option>
-            <option>Pas encore</option>
-            <option></option>
+            <question></question>
+            <options>
+                <option>Oui</option>
+                <option>Pas encore</option>
+                <option></option>
+            </options>
         </question-multiple-choice-item>
     </section-item>
     <section-item>

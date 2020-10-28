@@ -279,12 +279,15 @@
         <title>Question 17</title>
         <image-item>
             <source>https://raw.githubusercontent.com/ntfreddy/bible-study-google-form-generator-app/main/Storacles%20of%20Prophecy/images/lesson08/lesson08-17.jpg</source>
-            <title>Reconnaissant que Dieu contrôle parfaitement tous les événements terrestres, acceptez-vous de le laisser prendre le contrôle de votre vie ?</title>
+            <title></title>
         </image-item>
         <question-multiple-choice-item>
-            <option>Oui</option>
-            <option>Pas encore</option>
-            <option>Je lui ai déjà donné ma vie</option>
+            <question>Reconnaissant que Dieu contrôle parfaitement tous les événements terrestres, acceptez-vous de le laisser prendre le contrôle de votre vie ?</question>
+            <options>
+                <option>Oui</option>
+                <option>Pas encore</option>
+                <option>Je lui ai déjà donné ma vie</option>
+            </options>
         </question-multiple-choice-item>
     </section-item>
     <section-item>
