@@ -226,10 +226,14 @@ class QuestionShortAnswerItem {
 
 class QuestionMultipleChoiceItem {
     constructor(node) {
-        this.optionNodes = node.getChildren('option');
+        let childNode = node.getChild('question');
+        this.question = childNode !== null ? childNode.getText() : "";
+
+        childNode = node.getChild('options');
+        this.optionNodes = childNode !== null ? childNode.getChildren('option') : null;
     }
     create(form) {
-        var item = form.addCheckboxItem().setTitle("");
+        var item = form.addMultipleChoiceItem().setTitle(this.question);
 
         if (this.optionNodes !== null) {
             var choices = [];
@@ -240,7 +244,7 @@ class QuestionMultipleChoiceItem {
                 choices.push(item.createChoice(option));
             }
 
-            item.setChoices(choices).setRequired(true);
+            item.setChoices(choices).setRequired(true).showOtherOption(true);
         }
     }
 }
