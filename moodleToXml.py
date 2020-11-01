@@ -341,7 +341,7 @@ class Facade:
         with open(file=self.outputXmlFile, mode="w",encoding="utf-8") as outputXmlStream:
             outputXmlStream.write(outputContent)
 
-for i in [2,7,14]:
+for i in [13]:
     facade = Facade(str(i).zfill(2))
     facade.createXml();
 
