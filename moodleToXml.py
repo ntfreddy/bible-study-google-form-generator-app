@@ -74,7 +74,7 @@ class QuestionShortElement:
 
         if len(self.verses) > 0: 
             outputContent += "      <question-short-answer-item>\n"
-            outputContent += "          <question answer='"+ self.answer + "'>" + self.verses[0] + "</question>\n"
+            outputContent += "          <question answer=\""+ self.answer + "\">" + self.verses[0] + "</question>\n"
             outputContent += "      </question-short-answer-item>\n"
 
         if len(self.verses) > 1:  
@@ -232,7 +232,8 @@ class FormElement:
         self.formInfoDetected = False
 
         for line in lines: 
-            trimmedLine = line.strip();
+            trimmedLine = replaceSpecialCharacters(line.strip());
+
             removeLine = False
             for forbiddenWord in self.forbiddenWords:
                 if forbiddenWord in trimmedLine: 
@@ -291,6 +292,8 @@ class FormElement:
         outputDataFile = "./Storacles of Prophecy/content/fr/forms/lesson" + self.lessonNbr + ".txt"
         with open(file=outputDataFile, mode="w",encoding="utf-8") as outputDataStream:
             outputDataStream.writelines(self.lines) 
+    def replaceSpecialCharacters(self, line):
+        return line.replace("&", "&amp;")
     def detectFormTitle(self, line):
         if len(line) > 0 and line[0].isdigit() and line[len(line) - 1].isdigit():
             return True
