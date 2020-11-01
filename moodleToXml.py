@@ -249,11 +249,12 @@ class FormElement:
                     self.name = titleArray1[0].strip()
                     self.formVerse = titleArray1[1].strip()  
                     self.lessonNbr = titleArray2[0].strip()
-                    self.formTitle = titleArray2[1].strip()
+                    self.formTitleWithoutVerse = titleArray2[1].strip()
+                    self.formTitle = trimmedLine
                     self.lessonWord = "lesson" + self.lessonNbr
 
                     # add form title to lines to be removed
-                    self.forbiddenWords.append(self.formTitle)
+                    self.forbiddenWords.append(self.formTitleWithoutVerse)
                     self.formTitleDetected = True
                     continue
                 if self.detectFormIntro(trimmedLine):

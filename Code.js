@@ -122,7 +122,6 @@ class FormItem {
         configChildNode = configNode.getChild("shuffle-questions");
         this.shuffleQuestions = configChildNode !== null ? configChildNode.getText() === "true" : true;
 
-
         let childNode = node.getChild('name');
         this.name = childNode !== null ? childNode.getText() : "";
 
@@ -204,8 +203,8 @@ class TextItem {
 
 class QuestionShortAnswerItem {
     constructor(node, configNode) {
-        let childConfigNode = configNode.getChild("validation-text");
-        var validationText = childConfigNode !== null ? childConfigNode.getText() : "";
+        let configChildNode = configNode.getChild("custom-error-text-question-short-answer");
+        this.customErrorTextQuestionShortAnswer = configChildNode !== null ? configChildNode.getText() : "";
 
         let childNode = node.getChild("question");
 
@@ -216,7 +215,7 @@ class QuestionShortAnswerItem {
             this.question = childNode.getText();
             let attributeNode = childNode.getAttribute("answer");
             var answer = attributeNode !== null ? attributeNode.getValue() : "";
-            this.textValidation = FormApp.createTextValidation().setHelpText(validationText).requireTextLengthLessThanOrEqualTo(answer.length).build();
+            this.textValidation = FormApp.createTextValidation().setHelpText(customErrorTextQuestionShortAnswer).requireTextLengthLessThanOrEqualTo(answer.length).build();
         }
     }
     create(form) {
