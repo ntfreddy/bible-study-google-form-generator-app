@@ -226,6 +226,7 @@ class FormElement:
         ]
         self.childrenMap = {}
 
+        self.formTitleDetected = False
         self.formIntroductionDetected = False
         self.formQuestionDetected = False
         self.formInfoDetected = False
@@ -241,7 +242,7 @@ class FormElement:
                 removeLine = True
             if not removeLine:
                 self.lines.append(trimmedLine + "\n")
-                if self.detectFormTitle(trimmedLine):
+                if not self.formTitleDetected and self.detectFormTitle(trimmedLine):
                     titleArray1 = trimmedLine.split(' - ')
                     titleArray2 = titleArray1[0].split('.')
                     self.name = titleArray1[0].strip()
@@ -252,6 +253,7 @@ class FormElement:
 
                     # add form title to lines to be removed
                     self.forbiddenWords.append(self.formTitle)
+                    self.formTitleDetected = True
                     continue
                 if self.detectFormIntro(trimmedLine):
                     self.formIntroductionDetected = True
@@ -339,7 +341,7 @@ class Facade:
         with open(file=self.outputXmlFile, mode="w",encoding="utf-8") as outputXmlStream:
             outputXmlStream.write(outputContent)
 
-for i in range(24,25):
+for i in [2,7,14]:
     facade = Facade(str(i).zfill(2))
     facade.createXml();
 
